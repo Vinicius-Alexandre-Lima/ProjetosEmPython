@@ -1,3 +1,2 @@
-# ProjetosEmPython
-8 Projetos em Python 
+# Projetos Python 
 
